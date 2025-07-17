@@ -2,8 +2,8 @@
 
 Contributors: wenthemes
 Tags: one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-menu, featured-images, full-width-template, post-formats, sticky-post, translation-ready, theme-options, threaded-comments, blog, custom-logo
-Requires at least: 5.6
-Tested up to: 6.5
+Requires at least: 5.9
+Tested up to: 6.8
 Requires PHP: 5.6
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -21,6 +21,11 @@ WEN Themes proudly presents WEN Business : a spacious , generous , Corporate the
 3. Click Activate to use your new theme right away.
 
 == Changelog ==
+
+= 2.1 - Jul 17 2025 =
+* Add: Tiktok, Bluesky, X.com, Tel, Thread, Etsy, Deviantart, Behance, Bandcamp, Snapchat, Spotify, Telegram and other social icons
+* Update: Font Awesome to version 6.7.2
+* WP 6.8 compatibility
 
 = 2.0.6 - June 04 2024 =
 * Add: Show Site Title option in Theme Options Header
@@ -141,7 +146,7 @@ WEN Themes proudly presents WEN Business : a spacious , generous , Corporate the
 
 == Copyright ==
 
-WEN Business WordPress Theme, Copyright 2015-2022 wenthemes.com
+WEN Business WordPress Theme, Copyright 2015-2025 wenthemes.com
 WEN Business distributed under the terms of the GNU General Public License v3
 
 == Credits ==

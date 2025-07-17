@@ -1,11 +1,11 @@
-# Copyright (C) 2015-2022 WEN Themes
+# Copyright (C) 2015-2025 WEN Themes
 # This file is distributed under the GNU General Public License v3 or later.
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: WEN Business\n"
 "Report-Msgid-Bugs-To: https://wenthemes.com/contact/\n"
-"POT-Creation-Date: 2024-06-04 11:19+0545\n"
+"POT-Creation-Date: 2025-07-17 15:00+0545\n"
 "PO-Revision-Date: 2016-12-07 01:05-0500\n"
 "Last-Translator: WEN Themes <info@wenthemes.com>\n"
 "Language-Team: WEN Themes <info@wenthemes.com>\n"
@@ -14,9 +14,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.4.4\n"
-"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
-"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Textdomain-Support: yes\n"
@@ -95,87 +95,87 @@ msgstr ""
 msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
 msgstr ""
 
-#: ../functions.php:75
+#: ../functions.php:77
 msgid "Primary Menu"
 msgstr ""
 
-#: ../functions.php:76
+#: ../functions.php:78
 msgid "Footer Menu"
 msgstr ""
 
-#: ../functions.php:77
+#: ../functions.php:79
 msgid "Social Menu"
 msgstr ""
 
-#: ../functions.php:78
+#: ../functions.php:80
 msgid "404 Menu"
 msgstr ""
 
-#: ../functions.php:128 ../sidebar.php:24
+#: ../functions.php:130 ../sidebar.php:24
 msgid "Primary Sidebar"
 msgstr ""
 
-#: ../functions.php:137 ../sidebar-secondary.php:24
+#: ../functions.php:139 ../sidebar-secondary.php:24
 msgid "Secondary Sidebar"
 msgstr ""
 
-#: ../functions.php:146
+#: ../functions.php:148
 msgid "Front Page Widget Area"
 msgstr ""
 
-#: ../functions.php:155 ../sidebar-contact.php:24
+#: ../functions.php:157 ../sidebar-contact.php:24
 msgid "Contact Sidebar"
 msgstr ""
 
-#: ../functions.php:239 ../inc/widgets.php:148
+#: ../functions.php:243 ../inc/widgets.php:148
 msgid "Small"
 msgstr ""
 
-#: ../functions.php:240
+#: ../functions.php:244
 msgid "S"
 msgstr ""
 
-#: ../functions.php:245
+#: ../functions.php:249
 msgid "Normal"
 msgstr ""
 
-#: ../functions.php:246
+#: ../functions.php:250
 msgid "M"
 msgstr ""
 
-#: ../functions.php:251 ../inc/widgets.php:150
+#: ../functions.php:255 ../inc/widgets.php:150
 msgid "Large"
 msgstr ""
 
-#: ../functions.php:252
+#: ../functions.php:256
 msgid "L"
 msgstr ""
 
-#: ../functions.php:257
+#: ../functions.php:261
 msgid "Huge"
 msgstr ""
 
-#: ../functions.php:258
+#: ../functions.php:262
 msgid "XL"
 msgstr ""
 
-#: ../functions.php:268
+#: ../functions.php:272
 msgid "White"
 msgstr ""
 
-#: ../functions.php:273
+#: ../functions.php:277
 msgid "Black"
 msgstr ""
 
-#: ../functions.php:278
+#: ../functions.php:282
 msgid "Gray"
 msgstr ""
 
-#: ../functions.php:283
+#: ../functions.php:287
 msgid "Blue"
 msgstr ""
 
-#: ../functions.php:288
+#: ../functions.php:292
 msgid "Orange"
 msgstr ""
 
